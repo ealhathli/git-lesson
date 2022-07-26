@@ -1,0 +1,4 @@
+- create my first repo (done)
+- ADD afile to the repo (done)
+-chickout the git history (done)
+-Rest of the exercise
